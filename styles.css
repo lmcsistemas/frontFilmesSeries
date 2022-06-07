@@ -1,0 +1,32 @@
+#container{
+    margin:0 auto;
+    max-width: 1120px;
+    height: 200px;    
+}
+
+
+.titleForm{
+    text-align: center;
+    margin: 30px auto;
+    font-size:16px;
+    font-weight: bold;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.loginarea{
+    margin-top: 25%;
+    background-color: darkgrey;
+    border-radius: 10px;
+    padding: 20px
+
+}
+
+.formcadastro{
+    background-color: #c2c2c2;
+    border-radius: 10px;
+    padding: 20px
+}
